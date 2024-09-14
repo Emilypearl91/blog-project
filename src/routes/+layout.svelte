@@ -1,12 +1,9 @@
-
-<body>
+<script>
+  import "../app.css";
+	import Navbar from "../lib/components/Navbar.svelte";
+</script>
+<Navbar/>
   
 
 <slot/>
 
-</body>
-<style>
- :global(body) {
-  background-color: #BBA786;
- }
-</style>
