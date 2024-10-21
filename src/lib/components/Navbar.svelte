@@ -1,4 +1,4 @@
-<nav class="bg-[#211B27] h-16">
+<nav class="bg-[#412733] h-16">
 <ul>
   <li><a href="/">Home</a></li>
  <li><a href="/announcements">Announcements</a></li>
