@@ -3,7 +3,6 @@
   <li><a href="/">Home</a></li>
  <li><a href="/announcements">Announcements</a></li>
  <li><a href="/posts">Posts</a></li>
- <li><a href="/about-me">About Me</a></li>
 </ul>
 </nav>
 
